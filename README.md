@@ -1,9 +1,9 @@
-#@ Exploit Title: CMS Made Simple Version: 2.2.19 - SSTI
-## Date: 2024-21-02
-## Exploit Author: tmrswrr
-## Vendor Homepage: https://www.cmsmadesimple.org/
-## Version: 2.2.19
-## Tested on: https://www.softaculous.com/demos/CMS_Made_Simple
+## Exploit Title: CMS Made Simple Version: 2.2.19 - SSTI
+### Date: 2024-21-02
+### Exploit Author: tmrswrr
+### Vendor Homepage: https://www.cmsmadesimple.org/
+### Version: 2.2.19
+### Tested on: https://www.softaculous.com/demos/CMS_Made_Simple
 
 ## Description
 This exploit targets CMS Made Simple version 2.2.19 and demonstrates a Server-Side Template Injection (SSTI) vulnerability.
