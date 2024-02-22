@@ -1,4 +1,4 @@
-# Exploit Title: CMS Made Simple Version: 2.2.19 - SSTI
+#@ Exploit Title: CMS Made Simple Version: 2.2.19 - SSTI
 ## Date: 2024-21-02
 ## Exploit Author: tmrswrr
 ## Vendor Homepage: https://www.cmsmadesimple.org/
